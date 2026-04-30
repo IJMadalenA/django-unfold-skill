@@ -1,0 +1,6 @@
+[project]
+name = "django-unfold-skill"
+version = "0.1.0"
+description = "Expert opencode skill for django-unfold Django admin theme"
+requires-python = ">=3.10"
+dependencies = []
